@@ -4,8 +4,9 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
+
 const config: Config = {
-  title: "Physical AI Textbook",
+       title: "Physical AI Textbook",
   tagline: "Dinosaurs are cool",
   favicon: "img/favicon.ico",
 
@@ -15,14 +16,14 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: "https://physical-ai-textbook-five.vercel.app",
+  url: "http://localhost:3000",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "HumaizaNaz", // tumhara GitHub username
+  organizationName: "Sofia Ibrahim", // tumhara GitHub username
   projectName: "physical-ai-textbook",
 
   onBrokenLinks: "warn",
@@ -45,7 +46,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/HumaizaNaz/physical-ai-textbook/tree/main/frontend/",
+            "https://github.com/SofiaIbrahi7/physical-ai-textbook/tree/main/frontend/",
         },
         blog: {
           showReadingTime: true,
@@ -56,7 +57,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/HumaizaNaz/physical-ai-textbook/tree/main/frontend/",
+            "https://github.com/SofiaIbrahim7/physical-ai-textbook/tree/main/frontend/",
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
@@ -91,7 +92,7 @@ const config: Config = {
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/HumaizaNaz/physical-ai-textbook",
+          href: "https://github.com/SofiaIbrahi7/physical-ai-textbook",
           label: "GitHub",
           position: "right",
         },
@@ -135,7 +136,7 @@ const config: Config = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/HumaizaNaz/physical-ai-textbook",
+              href: "https://github.com/SofiaIbrahim7/physical-ai-textbook",
             },
           ],
         },
