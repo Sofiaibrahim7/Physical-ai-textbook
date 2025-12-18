@@ -1,0 +1,16 @@
+# Summary
+
+- [Introduction](./src/chapter_1.md)
+- [Embodiment and Situated Cognition](./src/chapter_2.md)
+- [Physics for AI](./src/chapter_3.md)
+- [Sensors and Perception](./src/chapter_4.md)
+- [Motor Control](./src/chapter_5.md)
+- [Reinforcement Learning in Physical Domains](./src/chapter_6.md)
+- [Sim-to-Real Transfer](./src/chapter_7.md)
+- [Learning from Demonstration and Imitation](./src/chapter_8.md)
+- [Multi-Agent Physical AI and Interaction](./src/chapter_9.md)
+- [Safety and Robustness in Physical AI](./src/chapter_10.md)
+- [Energy Efficiency and Sustainable Physical AI](./src/chapter_11.md)
+- [Case Studies and Real-World Applications](./src/chapter_12.md)
+- [Future Directions and Open Challenges](./src/chapter_13.md)
+- [Conclusion](./src/chapter_14.md)

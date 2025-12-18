@@ -1,0 +1,13 @@
+[book]
+title = "Physical AI: Embodied Intelligence in the Real World"
+author = "Sofia Ibrahim"
+description = "An open textbook on Physical AI"
+
+[build]
+build-dir = "book"
+
+[output.html]
+theme = "theme"
+default-theme = "light"
+preferred-dark-theme = "navy"
+curly-quotes = true
