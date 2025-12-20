@@ -1,0 +1,16 @@
+.vercel
+.env*.local
+node_modules/
+.build/
+.dist/
+.docusaurus/
+build/
+*.log
+.vscode/
+.idea/
+*.swp
+*.swo
+package-lock.json
+yarn.lock
+.local/
+config/

@@ -1,17 +1,46 @@
 module.exports = {
-  docs: [
+  tutorialSidebar: [
     {
       type: 'category',
-      label: 'Physical AI Textbook',
+      label: 'Introduction',
       items: [
         'intro',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Core Concepts',
+      items: [
         'embodied-intelligence',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Robotics Frameworks',
+      items: [
         'ros2-fundamentals',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Simulation',
+      items: [
         'gazebo-simulation',
-        'urdf-xacro-modeling',
         'isaac-sim',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Robot Modeling',
+      items: [
+        'urdf-xacro-modeling',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Advanced Topics',
+      items: [
         'synthetic-data-generation',
-        // Add more chapters as they are created
       ],
     },
   ],
