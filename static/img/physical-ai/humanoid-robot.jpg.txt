@@ -1,0 +1,4 @@
+Placeholder for humanoid robot image
+This should be an image showing a humanoid robot demonstrating physical AI concepts
+Dimensions: 800x600
+File should be replaced with actual humanoid robot image

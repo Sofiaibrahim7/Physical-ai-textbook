@@ -5,6 +5,8 @@ sidebar_position: 3
 
 # ROS 2 Fundamentals
 
+![ROS2 Architecture](/img/physical-ai/ros2-architecture.jpg)
+
 ## Introduction: Why ROS 2 for Physical AI and Humanoid Robots
 
 Robot Operating System 2 (ROS 2) has become the de facto standard for developing complex robotic systems, particularly in the realm of Physical AI and humanoid robotics. Unlike its predecessor ROS 1, ROS 2 is built on modern middleware technologies that make it suitable for real-world deployment, safety-critical applications, and commercial robots.

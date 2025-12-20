@@ -5,6 +5,8 @@ sidebar_position: 1
 
 # Introduction to Physical AI
 
+![Physical AI Concept](/img/physical-ai/embodied-intelligence.jpg)
+
 ## What is Physical AI?
 
 Physical AI represents a paradigm shift in artificial intelligence, where intelligence is not just abstract computation but emerges from the interaction between AI systems and the physical world. Unlike traditional AI that operates primarily in digital domains, Physical AI integrates perception, reasoning, and action in real-world environments through embodied agents such as robots, drones, and other physical systems.

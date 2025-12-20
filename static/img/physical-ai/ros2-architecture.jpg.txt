@@ -1,0 +1,4 @@
+Placeholder for ROS2 architecture diagram
+This should be an image showing the ROS2 architecture
+Dimensions: 800x600
+File should be replaced with actual ROS2 architecture diagram
