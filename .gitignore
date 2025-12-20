@@ -10,7 +10,7 @@ build/
 .idea/
 *.swp
 *.swo
-package-lock.json
 yarn.lock
 .local/
 config/
+server.js
